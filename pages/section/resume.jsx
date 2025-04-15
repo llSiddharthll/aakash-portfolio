@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 import { useEffect } from "react";
 import  Aos from 'aos';
