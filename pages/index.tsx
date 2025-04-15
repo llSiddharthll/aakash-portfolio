@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>KYROS</title>
+      <title>||AAKASH-PORTFOLIO||</title>
     </Head>
 
     <GlobalStyles/>
